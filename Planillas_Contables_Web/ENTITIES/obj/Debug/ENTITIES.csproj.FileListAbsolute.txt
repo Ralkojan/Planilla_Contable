@@ -1,0 +1,6 @@
+C:\Users\lctuser\Documents\GitHub\Planilla_Contable\Planillas_Contables_Web\ENTITIES\bin\Debug\ENTITIES.dll
+C:\Users\lctuser\Documents\GitHub\Planilla_Contable\Planillas_Contables_Web\ENTITIES\bin\Debug\ENTITIES.pdb
+C:\Users\lctuser\Documents\GitHub\Planilla_Contable\Planillas_Contables_Web\ENTITIES\obj\Debug\ENTITIES.csprojResolveAssemblyReference.cache
+C:\Users\lctuser\Documents\GitHub\Planilla_Contable\Planillas_Contables_Web\ENTITIES\obj\Debug\ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\lctuser\Documents\GitHub\Planilla_Contable\Planillas_Contables_Web\ENTITIES\obj\Debug\ENTITIES.dll
+C:\Users\lctuser\Documents\GitHub\Planilla_Contable\Planillas_Contables_Web\ENTITIES\obj\Debug\ENTITIES.pdb
