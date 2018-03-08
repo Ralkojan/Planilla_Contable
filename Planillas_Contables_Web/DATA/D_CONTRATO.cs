@@ -22,11 +22,12 @@ namespace DATA
                 cmd.CommandText = "PLANILLA.LISTAR_CONTRATO";
                 cmd.CommandType = CommandType.StoredProcedure;
                 conx.Open();
-                E_CONTRATO contrato = new E_CONTRATO();
+                E_CONTRATO contrato;
                 using (SqlDataReader reader = cmd.ExecuteReader())
                 {
                     while (reader.Read())
                     {
+                        contrato = new E_CONTRATO();
                         contrato.ID_Contrato = reader.GetString(reader.GetOrdinal("id_contrato"));
                         contrato.ID_Empleado = reader.GetString(reader.GetOrdinal("id_empleado"));
                         contrato.ID_Banco = reader.GetString(reader.GetOrdinal("id_banco"));
